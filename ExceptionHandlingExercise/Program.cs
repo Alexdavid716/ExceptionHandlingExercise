@@ -9,12 +9,14 @@ namespace ExceptionHandlingExercise
         static void Main(string[] args)
         {
             // -----------------------------------------------------------------------------
-            // Objective: Iterate through a character array. Try to parse each character into an integer.
+            // Ob
+            //
+            // jective: Iterate through a character array. Try to parse each character into an integer.
             // If you attempt to parse a letter into an integer, an exception will occur. 
             // Use a try-catch statement to avoid a run-time exception.
             // Below we will set this up.
             // ------------------------------------------------------------------------------
-
+               
 
 
             //TODO START HERE:
